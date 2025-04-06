@@ -1,0 +1,33 @@
+name: rushit
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.0.4
+  fl_chart: ^0.66.0
+  youtube_player_flutter: ^9.1.1
+  flutter_inappwebview: ^6.1.5
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/health.png
+    - assets/images/doctor.png
+    - assets/images/history.png
+    - assets/images/ai.png

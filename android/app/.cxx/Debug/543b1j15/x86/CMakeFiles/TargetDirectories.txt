@@ -1,0 +1,2 @@
+C:/Users/rushi/Desktop/T1/rushit/android/app/.cxx/Debug/543b1j15/x86/CMakeFiles/edit_cache.dir
+C:/Users/rushi/Desktop/T1/rushit/android/app/.cxx/Debug/543b1j15/x86/CMakeFiles/rebuild_cache.dir
