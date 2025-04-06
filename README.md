@@ -23,13 +23,13 @@ Our app empowers users—especially in rural and underserved communities—to de
 
 ##  Features
 
-- 📷 **Camera-based Anemia Detection**  
+-  **Camera-based Anemia Detection**  
   Snap images of fingernails and eye conjunctiva for AI-powered analysis.
 
 -  **Non-Invasive Screening**  
   No needles, no blood—just camera-based detection using computer vision.
 
-- 📊 **Personal Health Dashboard**  
+-  **Personal Health Dashboard**  
   Track your anemia levels over time, categorized as:
   - Not Anemic
   - Mild
@@ -76,4 +76,13 @@ Our app empowers users—especially in rural and underserved communities—to de
 3. AI model classifies anemia level
 4. Result is displayed along with actionable advice
 5. Chatbot and dashboard provide ongoing support
+
+---
+
+##  Contact
+
+For inquiries or feedback, please reach out via:
+
+- Email: shivaneshg2006@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shivanesh-g/
 
