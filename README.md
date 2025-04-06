@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-# rushit
 
 A new Flutter project.
 
