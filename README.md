@@ -85,6 +85,4 @@ For inquiries or feedback, please reach out via:
 
 - Email: scarletsave.app@gmail.com
 - Email: shivaneshg2006@gmail.com
-- LinkedIn: https://www.linkedin.com/in/shivanesh-g/
-- LinkedIn: https://www.linkedin.com/in/rushit-jani-b8326427a/
 
